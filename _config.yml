@@ -1,3 +1,5 @@
-theme: minima
+remote_theme: pages-themes/modernist@v0.2.0
 title: "DeSSUF"
 description: "A Methodology for the Design of a Safe, Secure and User-Friendly Reactive Programming Language for the Internet of Things"
+plugins:
+- jekyll-remote-theme
