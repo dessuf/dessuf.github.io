@@ -25,11 +25,7 @@ and the [University of Maribor](https://www.um.si/en), [LPM](https://lpm.feri.um
 - Jordan Ischard, PhD Student.
 - Dragana Ostojić, PhD Student.
 
-## Publications
-
-Coming soon.
-
 ## Software
 
-Coming soon.
+- [SaIL](https://github.com/sail-pl/SAIL)
 
